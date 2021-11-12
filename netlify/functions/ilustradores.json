@@ -1,0 +1,93 @@
+[{
+        "id": "1",
+        "name": "Stan Lee",
+        "nationality": "American",
+        "birthday": "1922-12-28",
+        "comics": [{
+                "comic_id": "1",
+                "comic_name": "Tales of Suspense"
+            },
+            {
+                "comic_id": "5",
+                "comic_name": "Ultimate Spider-man"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Jack Kirby",
+        "nationality": "American",
+        "birthday": "1917-08-28",
+        "comics": [{
+                "comic_id": "2",
+                "comic_name": "The Avengers #1"
+            },
+            {
+                "comic_id": "3",
+                "comic_name": "Jorney Into Mystery"
+            },
+            {
+                "comic_id": "7",
+                "comic_name": "Fantastic Four"
+            },
+            {
+                "comic_id": "8",
+                "comic_name": "Civil War"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Donny Cates",
+        "nationality": "American",
+        "birthday": "1984-09-14",
+        "comics": [{
+            "comic_id": "12",
+            "comic_name": "Nexus War: Thor"
+        }]
+    },
+    {
+        "id": "4",
+        "name": "Chris Cantwell",
+        "nationality": "American",
+        "birthday": "1980-11-12",
+        "comics": [{
+            "comic_id": "10",
+            "comic_name": "King in Black"
+        }]
+    },
+    {
+        "id": "5",
+        "name": "Todd McFarlane",
+        "nationality": "Canadian",
+        "birthday": "1961-03-16",
+        "comics": [{
+                "comic_id": "4",
+                "comic_name": "Marvel Super Heroes: Secret Wars"
+            },
+            {
+                "comic_id": "6",
+                "comic_name": "Spawn #1"
+            },
+            {
+                "comic_id": "11",
+                "comic_name": "Veneno: Caballero del Espacio"
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "name": "Steve Ditko",
+        "nationality": "American",
+        "birthday": "1927-11-02",
+        "comics": [{
+                "comic_id": "9",
+                "comic_name": "Strange Tales"
+            },
+            {
+                "comic_id": "13",
+                "comic_name": "Doctor Strange"
+            }
+        ]
+    }
+]

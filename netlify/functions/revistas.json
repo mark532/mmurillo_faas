@@ -1,0 +1,199 @@
+[
+    {
+        "id": "1",
+        "name": "Tales of Suspense",
+        "edition": "39",
+        "language": "English",
+        "ilustrador_id": "1",
+        "characters": [
+            {
+                "character_id": "1",
+                "character_name": "Iron Man"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "The Avengers #1",
+        "edition": "1",
+        "language": "English",
+        "ilustrador_id": "2",
+        "characters": [
+            {
+                "character_id": "1",
+                "character_name": "Iron Man"
+            },
+            {
+                "character_id": "2",
+                "character_name": "Thor"
+            },
+            {
+                "character_id": "3",
+                "character_name": "Hulk"
+            },
+            {
+                "character_id": "12",
+                "character_name": "Doctor Strange"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Jorney Into Mystery",
+        "edition": "83",
+        "language": "English",
+        "ilustrador_id": "2",
+        "characters": [
+            {
+                "character_id": "2",
+                "character_name": "Thor"
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Marvel Super Heroes: Secret Wars",
+        "edition": "8",
+        "language": "English",
+        "ilustrador_id": "5",
+        "characters": [
+            {
+                "character_id": "9",
+                "character_name": "Venom"
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "name": "Ultimate Spider-man",
+        "edition": "33",
+        "language": "English",
+        "ilustrador_id": "1",
+        "characters": [
+            {
+                "character_id": "9",
+                "character_name": "Venom"
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "name": "Spawn #1",
+        "edition": "1",
+        "language": "English",
+        "ilustrador_id": "5",
+        "characters": [
+            {
+                "character_id": "8",
+                "character_name": "Spawn"
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "name": "Fantastic Four",
+        "edition": "48",
+        "language": "English",
+        "ilustrador_id": "2",
+        "characters": [
+            {
+                "character_id": "5",
+                "character_name": "Galactus"
+            },
+            {
+                "character_id": "4",
+                "character_name": "Silver Surfer"
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "name": "Civil War",
+        "edition": "1",
+        "language": "English",
+        "ilustrador_id": "2",
+        "characters": [
+            {
+                "character_id": "1",
+                "character_name": "Iron Man"
+            }
+        ]
+    },
+    {
+        "id": "9",
+        "name": "Strange Tales",
+        "edition": "110",
+        "language": "English",
+        "ilustrador_id": "6",
+        "characters": [
+            {
+                "character_id": "12",
+                "character_name": "Doctor Strange"
+            }
+        ]
+    },
+    {
+        "id": "10",
+        "name": "King in Black",
+        "edition": "117",
+        "language": "English",
+        "ilustrador_id": "4",
+        "characters": [
+            {
+                "character_id": "1",
+                "character_name": "Iron Man"
+            }
+        ]
+    },
+    {
+        "id": "11",
+        "name": "Veneno: Caballero del Espacio",
+        "edition": "1",
+        "language": "English",
+        "ilustrador_id": "5",
+        "characters": [
+            {
+                "character_id": "9",
+                "character_name": "Venom"
+            }
+        ]
+    },
+    {
+        "id": "12",
+        "name": "Nexus War: Thor",
+        "edition": "1",
+        "language": "English",
+        "ilustrador_id": "3",
+        "characters": [
+            {
+                "character_id": "5",
+                "character_name": "Galactus"
+            },
+            {
+                "character_id": "2",
+                "character_name": "Thor"
+            }
+        ]
+    },
+    {
+        "id": "13",
+        "name": "Doctor Strange",
+        "edition": "117",
+        "language": "English",
+        "ilustrador_id": "6",
+        "characters": [
+            {
+                "character_id": "12",
+                "character_name": "Doctor Strange"
+            }
+        ]
+    },
+    {
+        "id": "14",
+        "name": "TEST",
+        "edition": "00001",
+        "language": "TEST",
+        "ilustrador_id": -1,
+        "characters": []
+    }
+]
